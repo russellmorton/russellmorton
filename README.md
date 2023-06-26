@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @russellmorton
-- 👀 I’m interested in web3.
-- 🌱 I’m currently learning smart contracts on Ethereum and Tezos.
 - 📫 How to reach me @russell_morton on Twitter.
 
 <!---
