@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @russellmorton
-- 📫 How to reach me @russell_morton on Twitter.
+- 📫 How to reach me @russell_morton on X.
 
 <!---
 russellmorton/russellmorton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
